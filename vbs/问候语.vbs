@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak "床前明月光，疑是地上霜"
